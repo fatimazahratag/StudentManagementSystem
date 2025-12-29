@@ -26,10 +26,5 @@ The **Student Management System** is a simple yet functional console application
 - Exception Handling
 
 ---
-
-## Installation & Running
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-link>
 ## Screenshot of the console 
 <img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/9224f644-2851-42f3-9d1c-c0ca535a6576" />
